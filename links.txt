@@ -1,0 +1,2 @@
+Docker postgres
+https://www.commandprompt.com/education/how-to-create-a-postgresql-database-in-docker/
